@@ -8,5 +8,6 @@ WARNING: This disables a security feature. FF will accept any potentially malico
 
 To install:
 - copy the „mozilla.cfg“ into your FF installation path (usually „C:\Program Files\Mozilla Firefox“)
-- copy the „autoconfig.js“ to the „.\defaults\pref\“ folder inside your FF installation path.
+- copy the „autoconfig.js“ to the „.\defaults\pref\“ folder inside your FF installation path
+
 If one of the files already exists, append the lines at the end.
